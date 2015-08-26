@@ -1,0 +1,445 @@
+fileFormatVersion: 2
+guid: aa6349040bbdacb4fafb64777d8d0e44
+timeCreated: 1440422287
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: group
+    100002: group1
+    100004: group1_pasted__pasted__pCylinder1
+    100006: group1_pasted__pasted__pCylinder3
+    100008: group1_pasted__pasted__pCylinder4
+    100010: group1_pasted__pCylinder5
+    100012: group2
+    100014: group3
+    100016: group4
+    100018: group5
+    100020: //RootNode
+    100022: pasted__pasted__pCylinder1
+    100024: pasted__pasted__pCylinder1 1
+    100026: pasted__pasted__pCylinder1 2
+    100028: pasted__pasted__pCylinder1 3
+    100030: pasted__pasted__pCylinder10
+    100032: pasted__pasted__pCylinder11
+    100034: pasted__pasted__pCylinder12
+    100036: pasted__pasted__pCylinder15
+    100038: pasted__pasted__pCylinder16
+    100040: pasted__pasted__pCylinder17
+    100042: pasted__pasted__pCylinder18
+    100044: pasted__pasted__pCylinder19
+    100046: pasted__pasted__pCylinder2
+    100048: pasted__pasted__pCylinder2 1
+    100050: pasted__pasted__pCylinder2 2
+    100052: pasted__pasted__pCylinder2 3
+    100054: pasted__pasted__pCylinder20
+    100056: pasted__pasted__pCylinder21
+    100058: pasted__pasted__pCylinder22
+    100060: pasted__pasted__pCylinder23
+    100062: pasted__pasted__pCylinder24
+    100064: pasted__pasted__pCylinder25
+    100066: pasted__pasted__pCylinder26
+    100068: pasted__pasted__pCylinder27
+    100070: pasted__pasted__pCylinder28
+    100072: pasted__pasted__pCylinder29
+    100074: pasted__pasted__pCylinder3
+    100076: pasted__pasted__pCylinder3 1
+    100078: pasted__pasted__pCylinder3 2
+    100080: pasted__pasted__pCylinder3 3
+    100082: pasted__pasted__pCylinder30
+    100084: pasted__pasted__pCylinder31
+    100086: pasted__pasted__pCylinder32
+    100088: pasted__pasted__pCylinder4
+    100090: pasted__pasted__pCylinder4 1
+    100092: pasted__pasted__pCylinder4 2
+    100094: pasted__pasted__pCylinder4 3
+    100096: pasted__pasted__pCylinder5
+    100098: pasted__pasted__pCylinder6
+    100100: pasted__pasted__pCylinder7
+    100102: pasted__pasted__pCylinder8
+    100104: pasted__pasted__pCylinder9
+    100106: pasted__pCylinder1
+    100108: pasted__pCylinder10
+    100110: pasted__pCylinder11
+    100112: pasted__pCylinder2
+    100114: pasted__pCylinder3
+    100116: pasted__pCylinder4
+    100118: pasted__pCylinder5
+    100120: pasted__pCylinder5 1
+    100122: pasted__pCylinder5 2
+    100124: pasted__pCylinder5 3
+    100126: pasted__pCylinder6
+    100128: pasted__pCylinder7
+    100130: pasted__pCylinder8
+    100132: pasted__pCylinder9
+    100134: pCube1
+    100136: pCube10
+    100138: pCube11
+    100140: pCube12
+    100142: pCube13
+    100144: pCube2
+    100146: pCube3
+    100148: pCube4
+    100150: pCube5
+    100152: pCube6
+    100154: pCube7
+    100156: pCube8
+    100158: pCube9
+    100160: pCylinder1
+    100162: pCylinder2
+    100164: transform1
+    100166: transform10
+    100168: transform11
+    100170: transform12
+    100172: transform13
+    100174: transform14
+    100176: transform2
+    100178: transform3
+    100180: transform4
+    100182: transform5
+    100184: transform6
+    100186: transform7
+    100188: transform8
+    100190: transform9
+    400000: group
+    400002: group1
+    400004: group1_pasted__pasted__pCylinder1
+    400006: group1_pasted__pasted__pCylinder3
+    400008: group1_pasted__pasted__pCylinder4
+    400010: group1_pasted__pCylinder5
+    400012: group2
+    400014: group3
+    400016: group4
+    400018: group5
+    400020: //RootNode
+    400022: pasted__pasted__pCylinder1
+    400024: pasted__pasted__pCylinder1 1
+    400026: pasted__pasted__pCylinder1 2
+    400028: pasted__pasted__pCylinder1 3
+    400030: pasted__pasted__pCylinder10
+    400032: pasted__pasted__pCylinder11
+    400034: pasted__pasted__pCylinder12
+    400036: pasted__pasted__pCylinder15
+    400038: pasted__pasted__pCylinder16
+    400040: pasted__pasted__pCylinder17
+    400042: pasted__pasted__pCylinder18
+    400044: pasted__pasted__pCylinder19
+    400046: pasted__pasted__pCylinder2
+    400048: pasted__pasted__pCylinder2 1
+    400050: pasted__pasted__pCylinder2 2
+    400052: pasted__pasted__pCylinder2 3
+    400054: pasted__pasted__pCylinder20
+    400056: pasted__pasted__pCylinder21
+    400058: pasted__pasted__pCylinder22
+    400060: pasted__pasted__pCylinder23
+    400062: pasted__pasted__pCylinder24
+    400064: pasted__pasted__pCylinder25
+    400066: pasted__pasted__pCylinder26
+    400068: pasted__pasted__pCylinder27
+    400070: pasted__pasted__pCylinder28
+    400072: pasted__pasted__pCylinder29
+    400074: pasted__pasted__pCylinder3
+    400076: pasted__pasted__pCylinder3 1
+    400078: pasted__pasted__pCylinder3 2
+    400080: pasted__pasted__pCylinder3 3
+    400082: pasted__pasted__pCylinder30
+    400084: pasted__pasted__pCylinder31
+    400086: pasted__pasted__pCylinder32
+    400088: pasted__pasted__pCylinder4
+    400090: pasted__pasted__pCylinder4 1
+    400092: pasted__pasted__pCylinder4 2
+    400094: pasted__pasted__pCylinder4 3
+    400096: pasted__pasted__pCylinder5
+    400098: pasted__pasted__pCylinder6
+    400100: pasted__pasted__pCylinder7
+    400102: pasted__pasted__pCylinder8
+    400104: pasted__pasted__pCylinder9
+    400106: pasted__pCylinder1
+    400108: pasted__pCylinder10
+    400110: pasted__pCylinder11
+    400112: pasted__pCylinder2
+    400114: pasted__pCylinder3
+    400116: pasted__pCylinder4
+    400118: pasted__pCylinder5
+    400120: pasted__pCylinder5 1
+    400122: pasted__pCylinder5 2
+    400124: pasted__pCylinder5 3
+    400126: pasted__pCylinder6
+    400128: pasted__pCylinder7
+    400130: pasted__pCylinder8
+    400132: pasted__pCylinder9
+    400134: pCube1
+    400136: pCube10
+    400138: pCube11
+    400140: pCube12
+    400142: pCube13
+    400144: pCube2
+    400146: pCube3
+    400148: pCube4
+    400150: pCube5
+    400152: pCube6
+    400154: pCube7
+    400156: pCube8
+    400158: pCube9
+    400160: pCylinder1
+    400162: pCylinder2
+    400164: transform1
+    400166: transform10
+    400168: transform11
+    400170: transform12
+    400172: transform13
+    400174: transform14
+    400176: transform2
+    400178: transform3
+    400180: transform4
+    400182: transform5
+    400184: transform6
+    400186: transform7
+    400188: transform8
+    400190: transform9
+    2300000: group1_pasted__pasted__pCylinder1
+    2300002: group1_pasted__pasted__pCylinder3
+    2300004: group1_pasted__pasted__pCylinder4
+    2300006: group1_pasted__pCylinder5
+    2300008: pasted__pasted__pCylinder1
+    2300010: pasted__pasted__pCylinder1 2
+    2300012: pasted__pasted__pCylinder1 3
+    2300014: pasted__pasted__pCylinder10
+    2300016: pasted__pasted__pCylinder11
+    2300018: pasted__pasted__pCylinder12
+    2300020: pasted__pasted__pCylinder15
+    2300022: pasted__pasted__pCylinder16
+    2300024: pasted__pasted__pCylinder17
+    2300026: pasted__pasted__pCylinder18
+    2300028: pasted__pasted__pCylinder19
+    2300030: pasted__pasted__pCylinder2
+    2300032: pasted__pasted__pCylinder2 1
+    2300034: pasted__pasted__pCylinder2 2
+    2300036: pasted__pasted__pCylinder2 3
+    2300038: pasted__pasted__pCylinder20
+    2300040: pasted__pasted__pCylinder21
+    2300042: pasted__pasted__pCylinder22
+    2300044: pasted__pasted__pCylinder23
+    2300046: pasted__pasted__pCylinder24
+    2300048: pasted__pasted__pCylinder25
+    2300050: pasted__pasted__pCylinder26
+    2300052: pasted__pasted__pCylinder27
+    2300054: pasted__pasted__pCylinder28
+    2300056: pasted__pasted__pCylinder29
+    2300058: pasted__pasted__pCylinder3
+    2300060: pasted__pasted__pCylinder3 2
+    2300062: pasted__pasted__pCylinder3 3
+    2300064: pasted__pasted__pCylinder30
+    2300066: pasted__pasted__pCylinder31
+    2300068: pasted__pasted__pCylinder32
+    2300070: pasted__pasted__pCylinder4
+    2300072: pasted__pasted__pCylinder4 2
+    2300074: pasted__pasted__pCylinder4 3
+    2300076: pasted__pasted__pCylinder5
+    2300078: pasted__pasted__pCylinder6
+    2300080: pasted__pasted__pCylinder7
+    2300082: pasted__pasted__pCylinder8
+    2300084: pasted__pasted__pCylinder9
+    2300086: pasted__pCylinder1
+    2300088: pasted__pCylinder10
+    2300090: pasted__pCylinder11
+    2300092: pasted__pCylinder2
+    2300094: pasted__pCylinder3
+    2300096: pasted__pCylinder4
+    2300098: pasted__pCylinder5
+    2300100: pasted__pCylinder5 2
+    2300102: pasted__pCylinder5 3
+    2300104: pasted__pCylinder6
+    2300106: pasted__pCylinder7
+    2300108: pasted__pCylinder8
+    2300110: pasted__pCylinder9
+    2300112: pCube10
+    2300114: pCube11
+    2300116: pCube13
+    2300118: pCylinder1
+    2300120: pCylinder2
+    3300000: group1_pasted__pasted__pCylinder1
+    3300002: group1_pasted__pasted__pCylinder3
+    3300004: group1_pasted__pasted__pCylinder4
+    3300006: group1_pasted__pCylinder5
+    3300008: pasted__pasted__pCylinder1
+    3300010: pasted__pasted__pCylinder1 2
+    3300012: pasted__pasted__pCylinder1 3
+    3300014: pasted__pasted__pCylinder10
+    3300016: pasted__pasted__pCylinder11
+    3300018: pasted__pasted__pCylinder12
+    3300020: pasted__pasted__pCylinder15
+    3300022: pasted__pasted__pCylinder16
+    3300024: pasted__pasted__pCylinder17
+    3300026: pasted__pasted__pCylinder18
+    3300028: pasted__pasted__pCylinder19
+    3300030: pasted__pasted__pCylinder2
+    3300032: pasted__pasted__pCylinder2 1
+    3300034: pasted__pasted__pCylinder2 2
+    3300036: pasted__pasted__pCylinder2 3
+    3300038: pasted__pasted__pCylinder20
+    3300040: pasted__pasted__pCylinder21
+    3300042: pasted__pasted__pCylinder22
+    3300044: pasted__pasted__pCylinder23
+    3300046: pasted__pasted__pCylinder24
+    3300048: pasted__pasted__pCylinder25
+    3300050: pasted__pasted__pCylinder26
+    3300052: pasted__pasted__pCylinder27
+    3300054: pasted__pasted__pCylinder28
+    3300056: pasted__pasted__pCylinder29
+    3300058: pasted__pasted__pCylinder3
+    3300060: pasted__pasted__pCylinder3 2
+    3300062: pasted__pasted__pCylinder3 3
+    3300064: pasted__pasted__pCylinder30
+    3300066: pasted__pasted__pCylinder31
+    3300068: pasted__pasted__pCylinder32
+    3300070: pasted__pasted__pCylinder4
+    3300072: pasted__pasted__pCylinder4 2
+    3300074: pasted__pasted__pCylinder4 3
+    3300076: pasted__pasted__pCylinder5
+    3300078: pasted__pasted__pCylinder6
+    3300080: pasted__pasted__pCylinder7
+    3300082: pasted__pasted__pCylinder8
+    3300084: pasted__pasted__pCylinder9
+    3300086: pasted__pCylinder1
+    3300088: pasted__pCylinder10
+    3300090: pasted__pCylinder11
+    3300092: pasted__pCylinder2
+    3300094: pasted__pCylinder3
+    3300096: pasted__pCylinder4
+    3300098: pasted__pCylinder5
+    3300100: pasted__pCylinder5 2
+    3300102: pasted__pCylinder5 3
+    3300104: pasted__pCylinder6
+    3300106: pasted__pCylinder7
+    3300108: pasted__pCylinder8
+    3300110: pasted__pCylinder9
+    3300112: pCube10
+    3300114: pCube11
+    3300116: pCube13
+    3300118: pCylinder1
+    3300120: pCylinder2
+    4300000: pCylinder1
+    4300002: pasted__pCylinder1
+    4300004: pasted__pCylinder2
+    4300006: pasted__pCylinder3
+    4300008: pasted__pCylinder4
+    4300010: pasted__pCylinder5
+    4300012: pasted__pasted__pCylinder1
+    4300014: pasted__pasted__pCylinder2
+    4300016: pasted__pasted__pCylinder3
+    4300018: pasted__pasted__pCylinder4
+    4300020: pasted__pCylinder6
+    4300022: pasted__pCylinder7
+    4300024: pasted__pCylinder8
+    4300026: pasted__pCylinder9
+    4300028: pCylinder2
+    4300030: pasted__pasted__pCylinder2
+    4300032: pasted__pasted__pCylinder7
+    4300034: pasted__pasted__pCylinder8
+    4300036: pasted__pasted__pCylinder9
+    4300038: pasted__pasted__pCylinder10
+    4300040: pasted__pasted__pCylinder11
+    4300042: pasted__pasted__pCylinder27
+    4300044: pasted__pasted__pCylinder28
+    4300046: pasted__pasted__pCylinder29
+    4300048: pasted__pasted__pCylinder30
+    4300050: pasted__pasted__pCylinder31
+    4300052: pasted__pasted__pCylinder32
+    4300054: group1_pasted__pasted__pCylinder3
+    4300056: group1_pasted__pasted__pCylinder1
+    4300058: group1_pasted__pasted__pCylinder4
+    4300060: group1_pasted__pCylinder5
+    4300062: pCube10
+    4300064: pCube11
+    4300066: pCube13
+    4300068: pasted__pCylinder5
+    4300070: pasted__pasted__pCylinder1
+    4300072: pasted__pasted__pCylinder2
+    4300074: pasted__pasted__pCylinder3
+    4300076: pasted__pasted__pCylinder4
+    4300078: pasted__pasted__pCylinder12
+    4300080: pasted__pasted__pCylinder16
+    4300082: pasted__pasted__pCylinder17
+    4300084: pasted__pCylinder10
+    4300086: pasted__pasted__pCylinder18
+    4300088: pasted__pasted__pCylinder19
+    4300090: pasted__pasted__pCylinder20
+    4300092: pasted__pCylinder5
+    4300094: pasted__pasted__pCylinder1
+    4300096: pasted__pasted__pCylinder2
+    4300098: pasted__pasted__pCylinder3
+    4300100: pasted__pasted__pCylinder4
+    4300102: pasted__pasted__pCylinder5
+    4300104: pasted__pasted__pCylinder15
+    4300106: pasted__pasted__pCylinder21
+    4300108: pasted__pCylinder11
+    4300110: pasted__pasted__pCylinder22
+    4300112: pasted__pasted__pCylinder23
+    4300114: pasted__pasted__pCylinder24
+    4300116: pasted__pasted__pCylinder25
+    4300118: pasted__pasted__pCylinder26
+    4300120: pasted__pasted__pCylinder6
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
